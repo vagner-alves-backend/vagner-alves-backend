@@ -9,13 +9,11 @@ Sou um desenvolvedor em constante evolução, focado no ecossistema Back-end. At
         title="Me siga no GitHub" 
         src="https://custom-icon-badges.demolab.com/badge/Ciências da Computação-9800F7.svg?logo=repo"
     />
-    <a href="https://www.linkedin.com/in/v%C3%A1gner-alves-a12910379/">
-        <img 
-            alt="Meu linkedin" 
-            title="Esse é meu linkedin" 
-            src=" https://custom-icon-badges.demolab.com/badge/Linkedin-0073F7.svg?logo=star"
-        />
-    </a>
+    <img 
+        alt="Meu linkedin" 
+        title="Esse é meu linkedin" 
+        src=" https://custom-icon-badges.demolab.com/badge/Linkedin-0073F7.svg?logo=star"
+    />
     <img 
         alt="Meu Gmail"
         title="Esse é meu gmail"
