@@ -41,3 +41,4 @@ Sou um desenvolvedor em constante evolução, focado no ecossistema Back-end. At
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg"
 />
+
