@@ -12,7 +12,7 @@ Sou um desenvolvedor em constante evolução, focado no ecossistema Back-end. At
     <img 
         alt="Meu linkedin" 
         title="Esse é meu linkedin" 
-        src=" https://custom-icon-badges.demolab.com/badge/Linkedin-0073F7.svg?logo=star"
+        src="https://custom-icon-badges.demolab.com/badge/Linkedin-0073F7.svg?logo=star"
     />
     <img 
         alt="Meu Gmail"
