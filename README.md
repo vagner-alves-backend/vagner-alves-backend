@@ -1,16 +1,45 @@
-## Hi there 👋
+# 🧑🏽‍💻 Vágner Alves
+**``Desenvolvedor Back-End``**
+### Olá! Seja bem-vindo ao meu perfil. 🚀
+Sou um desenvolvedor em constante evolução, focado no ecossistema Back-end. Atualmente, dedico meus estudos e projetos principalmente ao C# e .NET, explorando e aprimorando meus conhecimentos cada vez mais nesse universo da programação.
 
-<!--
-**vagner-alves-backend/vagner-alves-backend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+    <img 
+        alt="Ciências da Computação" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/badge/Ciências da Computação-9800F7.svg?logo=repo"
+    />
+    <a href="https://www.linkedin.com/in/v%C3%A1gner-alves-a12910379/">
+        <img 
+            alt="Meu linkedin" 
+            title="Esse é meu linkedin" 
+            src=" https://custom-icon-badges.demolab.com/badge/Linkedin-0073F7.svg?logo=star"
+        />
+    </a>
+    <img 
+        alt="Meu Gmail"
+        title="Esse é meu gmail"
+        src="https://custom-icon-badges.demolab.com/badge/vagner.alves.dev@gmail.com-E61B23.svg?logo=mail"
+    />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🤖 Linguagens e Tecnologias
+<img 
+    aling="left"
+    width="34px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+ />
+<img 
+    aling="left"
+    width="34px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" 
+/>
+<img 
+    aling="left"
+    width="34px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg"
+/>
