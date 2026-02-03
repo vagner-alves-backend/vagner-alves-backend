@@ -1,7 +1,7 @@
 # 🧑🏽‍💻 Vágner Alves
 **``Desenvolvedor Back-End``**
 ### Olá! Seja bem-vindo ao meu perfil. 🚀
-Sou um desenvolvedor em constante evolução, focado no ecossistema Back-end. Atualmente, dedico meus estudos e projetos principalmente ao C# e .NET, explorando e aprimorando meus conhecimentos cada vez mais nesse universo da programação.
+Sou um desenvolvedor em constante evolução, focado no ecossistema Back-end. Atualmente, dedico meus estudos e projetos principalmente ao C# e .NET, explorando e aprimorando meus conhecimentos cada vez mais nesse universo que é a programação.
 
 <p align="left">
     <img 
